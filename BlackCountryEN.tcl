@@ -20,11 +20,14 @@
 # gunzip GeoIP.dat.gz
 # mv -v GeoIP.dat /usr/share/GeoIP/GeoIP.dat
 #
+#                       BLaCkShaDoW ProductionS
+#      _   _   _   _   _   _   _   _   _   _   _   _   _   _  
+#     / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+#    ( t | c | l | s | c | r | i | p | t | s | . | n | e | t )
+#     \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
+#                                    #TCL-HELP @ Undernet.org
 #
-#				 BLaCkShaDoW ProductionS - #TCL-HELP @ Undernet.org
-#
-#  				     translation provided by florian@tclscripts.net
-#
+#  				     Translation provided by florian@tclscripts.net
 ###################################################################################
 
 #Here set the predefined message ban
