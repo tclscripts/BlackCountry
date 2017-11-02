@@ -13,7 +13,12 @@
 #
 #+++ Atentie ++++ Trebuie sa fie instalat 'geoiplookup' pe server pentru a functiona.
 #
-#						BLaCkShaDoW ProductionS
+#                       BLaCkShaDoW ProductionS
+#      _   _   _   _   _   _   _   _   _   _   _   _   _   _  
+#     / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+#    ( t | c | l | s | c | r | i | p | t | s | . | n | e | t )
+#     \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
+#
 ###################################################################################
 
 #Aici setezi mesajul predefinit de ban
